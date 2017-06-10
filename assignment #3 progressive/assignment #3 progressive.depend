@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431659462 source:d:\fci second term second year\zatouna midterm kol el mwad\files\new folder\assignment #3 progressive\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
